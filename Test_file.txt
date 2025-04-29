@@ -1,0 +1,5 @@
+2025-04-28 14:22:05 [INFO] System started
+
+2025-04-28 14:22:05 [ERROR] Disk not found
+
+2025-04-28 14:22:05 [WARNING] Low memory
