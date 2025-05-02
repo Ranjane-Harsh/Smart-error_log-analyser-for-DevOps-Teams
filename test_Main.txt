@@ -1,0 +1,21 @@
+2024-11-14 14:22:10,404 [INFO] auth: User login successful - user_id=143
+2024-11-14 14:22:12,115 [ERROR] db: Connection timeout - retrying in 5s
+2024-11-14 14:22:17,398 [WARNING] scheduler: Job 'cleanup_temp_files' failed to run
+2024-11-14 14:22:18,421 [INFO] api: /healthcheck responded with 200 OK
+2024-11-14 14:22:20,308 [ERROR] db: Connection timeout - retrying in 10s
+2024-11-14 14:22:25,774 [DEBUG] cache: Cache miss for key=user_profile_143
+2024-11-14 14:22:27,009 [WARNING] disk_monitor: Disk usage above 85% on /dev/sda1
+2024-11-14 14:22:30,983 [ERROR] api: Unhandled exception: NullReferenceException at line 208
+2024-11-14 14:22:35,101 [INFO] api: /login responded with 403 Forbidden
+2024-11-14 14:22:40,444 [ERROR] api: Unhandled exception: NullReferenceException at line 211
+2024-11-14 14:22:44,101 [INFO] scheduler: Task 'daily_backup' completed in 23.42s
+2024-11-14 14:22:45,666 [ERROR] auth: Failed login attempt from IP 192.168.1.89
+2024-11-14 14:22:50,778 [DEBUG] metrics: CPU usage steady at 43.2%
+2024-11-14 14:22:55,312 [CRITICAL] disk_monitor: I/O errors detected on /dev/sda1
+2024-11-14 14:22:56,120 [INFO] mailer: Sent notification to admin@company.com
+2024-11-14 14:22:59,417 [ERROR] api: DatabaseError: Unique constraint violated on user_email
+2024-11-14 14:23:01,002 [WARNING] db: Connection pool size low (3/20)
+2024-11-14 14:23:03,302 [ERROR] api: DatabaseError: Unique constraint violated on user_email
+2024-11-14 14:23:05,556 [DEBUG] scheduler: Task 'log_cleanup' scheduled for 01:00 AM
+2024-11-14 14:23:10,118 [INFO] auth: Password reset initiated for user_id=582
+2024-11-14 14:23:14,832 [ERROR] db: Connection timeout - retrying in 15s

@@ -1,7 +1,7 @@
 import re
 import os
 
-file_path = r"D:\Coding\Vs code\Projects\Smart Error Log Analyser For DevOps Teams\test2.txt"
+file_path = r"D:\Coding\Vs code\Projects\Smart Error Log Analyser For DevOps Teams\test_Main.txt"
 
 def read_log_file(path):
     if not os.path.exists(path):
@@ -15,6 +15,7 @@ def read_log_file(path):
         return cleaned_strings
 
 cleaned_strings = read_log_file(file_path)
+print("This is the list of Cleaned strings which are striped off whitespaces: ")
 print(cleaned_strings)
 
 
@@ -23,15 +24,17 @@ def extract_error_lines(cleaned_lines):
     return error_lines
 
 error_lines = extract_error_lines(cleaned_strings)
+print("This is a list of error lines: ")
 print(error_lines)
 
 
 def normalize_error_lines(error_lines):
     cleaned_lines = []
     for line in error_lines:
-        cleaned_line = re.sub(r'\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}|ID:\s*\d+', '', line)
+        cleaned_line = re.sub(r'\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}|ID:\s*\d+|\/[\w\/\.-]+|\\b\\d+\\b', '', line)
         cleaned_lines.append(cleaned_line)
     return cleaned_lines
 
 cleaned_lines = normalize_error_lines(error_lines)
+print("This is a list of error lines without the timestamps and ID's")
 print(cleaned_lines)
