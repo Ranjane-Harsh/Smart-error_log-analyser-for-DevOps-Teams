@@ -1,0 +1,38 @@
+Group Number :1
+Fingerprint : ERROR,db,Connection,timeout,retrying
+Few examples for the fingerprint :
+ 1.ERROR db Connection timeout  retrying in
+2.ERROR db Connection timeout  retrying in
+----------------------------------------
+Group Number :2
+Fingerprint : WARNING,scheduler,Job,cleanup_temp_files,failed,run
+Few examples for the fingerprint :
+ 1.WARNING scheduler Job cleanup_temp_files failed to run
+----------------------------------------
+Group Number :3
+Fingerprint : WARNING,disk_monitor,Disk,usage,above
+Few examples for the fingerprint :
+ 1.WARNING disk_monitor Disk usage above  on
+----------------------------------------
+Group Number :4
+Fingerprint : ERROR,api,Unhandled,exception,NullReferenceException,line
+Few examples for the fingerprint :
+ 1.ERROR api Unhandled exception NullReferenceException at line
+2.ERROR api Unhandled exception NullReferenceException at line
+----------------------------------------
+Group Number :5
+Fingerprint : ERROR,auth,Failed,login,attempt,IP
+Few examples for the fingerprint :
+ 1.ERROR auth Failed login attempt from IP
+----------------------------------------
+Group Number :6
+Fingerprint : ERROR,api,DatabaseError,Unique,constraint,violated,user_email
+Few examples for the fingerprint :
+ 1.ERROR api DatabaseError Unique constraint violated on user_email
+2.ERROR api DatabaseError Unique constraint violated on user_email
+----------------------------------------
+Group Number :7
+Fingerprint : WARNING,db,Connection,pool,size,low
+Few examples for the fingerprint :
+ 1.WARNING db Connection pool size low
+----------------------------------------

@@ -20,6 +20,7 @@ def cluster_error(cleaned_lines):
     return clusters
 
 clusters = cluster_error(cleaned_lines)
+print("These is the dict of clusters: ")
 print(clusters)
 
 for fingerprint, logs in clusters.items():

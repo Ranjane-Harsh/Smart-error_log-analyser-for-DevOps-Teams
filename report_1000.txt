@@ -1,0 +1,984 @@
+Group Number :1
+Fingerprint : WARNING,CacheLayer,NullPointerException,encountered,processRequest
+Few examples for the fingerprint :
+ 1.WARNING CacheLayer    NullPointerException encountered in processRequest
+2.WARNING CacheLayer    NullPointerException encountered in processRequest
+----------------------------------------
+Group Number :2
+Fingerprint : ERROR,API,Gateway,NullPointerException,encountered,processRequest
+Few examples for the fingerprint :
+ 1.ERROR API Gateway    NullPointerException encountered in processRequest
+2.ERROR API Gateway    NullPointerException encountered in processRequest
+----------------------------------------
+Group Number :3
+Fingerprint : WARNING,PaymentProcessor,Disk,space,running,low,server
+Few examples for the fingerprint :
+ 1.WARNING PaymentProcessor    Disk space running low on server
+2.WARNING PaymentProcessor    Disk space running low on server
+----------------------------------------
+Group Number :4
+Fingerprint : WARNING,FileManager,Data,format,exception,transaction,module
+Few examples for the fingerprint :
+ 1.WARNING FileManager    Data format exception in transaction module
+2.WARNING FileManager    Data format exception in transaction module
+----------------------------------------
+Group Number :5
+Fingerprint : ERROR,UserService,User,login,failed,due,invalid,credentials
+Few examples for the fingerprint :
+ 1.ERROR UserService    User login failed due to invalid credentials
+----------------------------------------
+Group Number :6
+Fingerprint : ERROR,PaymentProcessor,Unexpected,token,position,input,stream
+Few examples for the fingerprint :
+ 1.ERROR PaymentProcessor    Unexpected token  at position  in input stream
+2.ERROR PaymentProcessor    Unexpected token  at position  in input stream
+----------------------------------------
+Group Number :7
+Fingerprint : ERROR,API,Gateway,File,found,specified,directory
+Few examples for the fingerprint :
+ 1.ERROR API Gateway    File not found in the specified directory
+2.ERROR API Gateway    File not found in the specified directory
+----------------------------------------
+Group Number :8
+Fingerprint : WARNING,API,Gateway,Connection,timeout,while,accessing,database
+Few examples for the fingerprint :
+ 1.WARNING API Gateway    Connection timeout while accessing the database
+2.WARNING API Gateway    Connection timeout while accessing the database
+----------------------------------------
+Group Number :9
+Fingerprint : WARNING,Database,User,login,failed,due,invalid,credentials
+Few examples for the fingerprint :
+ 1.WARNING Database    User login failed due to invalid credentials
+2.WARNING Database    User login failed due to invalid credentials
+----------------------------------------
+Group Number :10
+Fingerprint : ERROR,FileManager,File,found,specified,directory
+Few examples for the fingerprint :
+ 1.ERROR FileManager    File not found in the specified directory
+2.ERROR FileManager    File not found in the specified directory
+----------------------------------------
+Group Number :11
+Fingerprint : ERROR,AuthService,Disk,space,running,low,server
+Few examples for the fingerprint :
+ 1.ERROR AuthService    Disk space running low on server
+2.ERROR AuthService    Disk space running low on server
+----------------------------------------
+Group Number :12
+Fingerprint : WARNING,UserService,File,found,specified,directory
+Few examples for the fingerprint :
+ 1.WARNING UserService    File not found in the specified directory
+2.WARNING UserService    File not found in the specified directory
+----------------------------------------
+Group Number :13
+Fingerprint : ERROR,UserService,Disk,space,running,low,server
+Few examples for the fingerprint :
+ 1.ERROR UserService    Disk space running low on server
+2.ERROR UserService    Disk space running low on server
+----------------------------------------
+Group Number :14
+Fingerprint : WARNING,AuthService,User,login,failed,due,invalid,credentials
+Few examples for the fingerprint :
+ 1.WARNING AuthService    User login failed due to invalid credentials
+2.WARNING AuthService    User login failed due to invalid credentials
+----------------------------------------
+Group Number :15
+Fingerprint : ERROR,PaymentProcessor,Malformed,JSON,request,payload
+Few examples for the fingerprint :
+ 1.ERROR PaymentProcessor    Malformed JSON in request payload
+2.ERROR PaymentProcessor    Malformed JSON in request payload
+----------------------------------------
+Group Number :16
+Fingerprint : ERROR,PaymentProcessor,Connection,timeout,while,accessing,database
+Few examples for the fingerprint :
+ 1.ERROR PaymentProcessor    Connection timeout while accessing the database
+2.ERROR PaymentProcessor    Connection timeout while accessing the database
+----------------------------------------
+Group Number :17
+Fingerprint : ERROR,AuthService,User,login,failed,due,invalid,credentials
+Few examples for the fingerprint :
+ 1.ERROR AuthService    User login failed due to invalid credentials
+2.ERROR AuthService    User login failed due to invalid credentials
+----------------------------------------
+Group Number :18
+Fingerprint : WARNING,Database,API,rate,limit,exceeded,for,IP,address
+Few examples for the fingerprint :
+ 1.WARNING Database    API rate limit exceeded for IP address
+2.WARNING Database    API rate limit exceeded for IP address
+----------------------------------------
+Group Number :19
+Fingerprint : WARNING,API,Gateway,Memory,usage,exceeded,threshold
+Few examples for the fingerprint :
+ 1.WARNING API Gateway    Memory usage exceeded threshold
+----------------------------------------
+Group Number :20
+Fingerprint : WARNING,Database,NullPointerException,encountered,processRequest
+Few examples for the fingerprint :
+ 1.WARNING Database    NullPointerException encountered in processRequest
+2.WARNING Database    NullPointerException encountered in processRequest
+----------------------------------------
+Group Number :21
+Fingerprint : ERROR,PaymentProcessor,Memory,usage,exceeded,threshold
+Few examples for the fingerprint :
+ 1.ERROR PaymentProcessor    Memory usage exceeded threshold
+2.ERROR PaymentProcessor    Memory usage exceeded threshold
+----------------------------------------
+Group Number :22
+Fingerprint : WARNING,CacheLayer,API,rate,limit,exceeded,for,IP,address
+Few examples for the fingerprint :
+ 1.WARNING CacheLayer    API rate limit exceeded for IP address
+----------------------------------------
+Group Number :23
+Fingerprint : ERROR,PaymentProcessor,File,found,specified,directory
+Few examples for the fingerprint :
+ 1.ERROR PaymentProcessor    File not found in the specified directory
+2.ERROR PaymentProcessor    File not found in the specified directory
+----------------------------------------
+Group Number :24
+Fingerprint : WARNING,API,Gateway,File,found,specified,directory
+Few examples for the fingerprint :
+ 1.WARNING API Gateway    File not found in the specified directory
+----------------------------------------
+Group Number :25
+Fingerprint : ERROR,Database,Malformed,JSON,request,payload
+Few examples for the fingerprint :
+ 1.ERROR Database    Malformed JSON in request payload
+2.ERROR Database    Malformed JSON in request payload
+----------------------------------------
+Group Number :26
+Fingerprint : WARNING,AuthService,File,found,specified,directory
+Few examples for the fingerprint :
+ 1.WARNING AuthService    File not found in the specified directory
+2.WARNING AuthService    File not found in the specified directory
+----------------------------------------
+Group Number :27
+Fingerprint : WARNING,Database,File,found,specified,directory
+Few examples for the fingerprint :
+ 1.WARNING Database    File not found in the specified directory
+2.WARNING Database    File not found in the specified directory
+----------------------------------------
+Group Number :28
+Fingerprint : ERROR,FileManager,Malformed,JSON,request,payload
+Few examples for the fingerprint :
+ 1.ERROR FileManager    Malformed JSON in request payload
+----------------------------------------
+Group Number :29
+Fingerprint : WARNING,API,Gateway,User,login,failed,due,invalid,credentials
+Few examples for the fingerprint :
+ 1.WARNING API Gateway    User login failed due to invalid credentials
+2.WARNING API Gateway    User login failed due to invalid credentials
+----------------------------------------
+Group Number :30
+Fingerprint : ERROR,API,Gateway,Connection,timeout,while,accessing,database
+Few examples for the fingerprint :
+ 1.ERROR API Gateway    Connection timeout while accessing the database
+2.ERROR API Gateway    Connection timeout while accessing the database
+----------------------------------------
+Group Number :31
+Fingerprint : ERROR,FileManager,SSL,handshake,failed,due,unknown,certificate,authority
+Few examples for the fingerprint :
+ 1.ERROR FileManager    SSL handshake failed due to unknown certificate authority
+2.ERROR FileManager    SSL handshake failed due to unknown certificate authority
+----------------------------------------
+Group Number :32
+Fingerprint : ERROR,PaymentProcessor,User,login,failed,due,invalid,credentials
+Few examples for the fingerprint :
+ 1.ERROR PaymentProcessor    User login failed due to invalid credentials
+----------------------------------------
+Group Number :33
+Fingerprint : ERROR,PaymentProcessor,Failed,connect,thirdparty,authentication,service
+Few examples for the fingerprint :
+ 1.ERROR PaymentProcessor    Failed to connect to thirdparty authentication service
+2.ERROR PaymentProcessor    Failed to connect to thirdparty authentication service
+----------------------------------------
+Group Number :34
+Fingerprint : WARNING,AuthService,Permission,denied,while,accessing,secure,endpoint
+Few examples for the fingerprint :
+ 1.WARNING AuthService    Permission denied while accessing secure endpoint
+----------------------------------------
+Group Number :35
+Fingerprint : WARNING,PaymentProcessor,User,login,failed,due,invalid,credentials
+Few examples for the fingerprint :
+ 1.WARNING PaymentProcessor    User login failed due to invalid credentials
+----------------------------------------
+Group Number :36
+Fingerprint : ERROR,FileManager,Memory,usage,exceeded,threshold
+Few examples for the fingerprint :
+ 1.ERROR FileManager    Memory usage exceeded threshold
+----------------------------------------
+Group Number :37
+Fingerprint : WARNING,PaymentProcessor,Unable,acquire,lock,resource
+Few examples for the fingerprint :
+ 1.WARNING PaymentProcessor    Unable to acquire lock on resource
+2.WARNING PaymentProcessor    Unable to acquire lock on resource
+----------------------------------------
+Group Number :38
+Fingerprint : ERROR,PaymentProcessor,Unable,acquire,lock,resource
+Few examples for the fingerprint :
+ 1.ERROR PaymentProcessor    Unable to acquire lock on resource
+2.ERROR PaymentProcessor    Unable to acquire lock on resource
+----------------------------------------
+Group Number :39
+Fingerprint : WARNING,PaymentProcessor,NullPointerException,encountered,processRequest
+Few examples for the fingerprint :
+ 1.WARNING PaymentProcessor    NullPointerException encountered in processRequest
+2.WARNING PaymentProcessor    NullPointerException encountered in processRequest
+----------------------------------------
+Group Number :40
+Fingerprint : ERROR,AuthService,NullPointerException,encountered,processRequest
+Few examples for the fingerprint :
+ 1.ERROR AuthService    NullPointerException encountered in processRequest
+2.ERROR AuthService    NullPointerException encountered in processRequest
+----------------------------------------
+Group Number :41
+Fingerprint : ERROR,Database,File,found,specified,directory
+Few examples for the fingerprint :
+ 1.ERROR Database    File not found in the specified directory
+2.ERROR Database    File not found in the specified directory
+----------------------------------------
+Group Number :42
+Fingerprint : WARNING,API,Gateway,Permission,denied,while,accessing,secure,endpoint
+Few examples for the fingerprint :
+ 1.WARNING API Gateway    Permission denied while accessing secure endpoint
+2.WARNING API Gateway    Permission denied while accessing secure endpoint
+----------------------------------------
+Group Number :43
+Fingerprint : ERROR,Database,NullPointerException,encountered,processRequest
+Few examples for the fingerprint :
+ 1.ERROR Database    NullPointerException encountered in processRequest
+2.ERROR Database    NullPointerException encountered in processRequest
+----------------------------------------
+Group Number :44
+Fingerprint : ERROR,CacheLayer,File,found,specified,directory
+Few examples for the fingerprint :
+ 1.ERROR CacheLayer    File not found in the specified directory
+2.ERROR CacheLayer    File not found in the specified directory
+----------------------------------------
+Group Number :45
+Fingerprint : ERROR,CacheLayer,Data,format,exception,transaction,module
+Few examples for the fingerprint :
+ 1.ERROR CacheLayer    Data format exception in transaction module
+2.ERROR CacheLayer    Data format exception in transaction module
+----------------------------------------
+Group Number :46
+Fingerprint : ERROR,UserService,SSL,handshake,failed,due,unknown,certificate,authority
+Few examples for the fingerprint :
+ 1.ERROR UserService    SSL handshake failed due to unknown certificate authority
+----------------------------------------
+Group Number :47
+Fingerprint : ERROR,API,Gateway,Unexpected,token,position,input,stream
+Few examples for the fingerprint :
+ 1.ERROR API Gateway    Unexpected token  at position  in input stream
+----------------------------------------
+Group Number :48
+Fingerprint : WARNING,AuthService,Connection,timeout,while,accessing,database
+Few examples for the fingerprint :
+ 1.WARNING AuthService    Connection timeout while accessing the database
+2.WARNING AuthService    Connection timeout while accessing the database
+----------------------------------------
+Group Number :49
+Fingerprint : WARNING,CacheLayer,SSL,handshake,failed,due,unknown,certificate,authority
+Few examples for the fingerprint :
+ 1.WARNING CacheLayer    SSL handshake failed due to unknown certificate authority
+2.WARNING CacheLayer    SSL handshake failed due to unknown certificate authority
+----------------------------------------
+Group Number :50
+Fingerprint : ERROR,AuthService,Unexpected,token,position,input,stream
+Few examples for the fingerprint :
+ 1.ERROR AuthService    Unexpected token  at position  in input stream
+2.ERROR AuthService    Unexpected token  at position  in input stream
+----------------------------------------
+Group Number :51
+Fingerprint : ERROR,UserService,Service,temporarily,unavailable
+Few examples for the fingerprint :
+ 1.ERROR UserService    Service temporarily unavailable
+2.ERROR UserService    Service temporarily unavailable
+----------------------------------------
+Group Number :52
+Fingerprint : WARNING,UserService,Failed,connect,thirdparty,authentication,service
+Few examples for the fingerprint :
+ 1.WARNING UserService    Failed to connect to thirdparty authentication service
+2.WARNING UserService    Failed to connect to thirdparty authentication service
+----------------------------------------
+Group Number :53
+Fingerprint : WARNING,API,Gateway,Unable,acquire,lock,resource
+Few examples for the fingerprint :
+ 1.WARNING API Gateway    Unable to acquire lock on resource
+----------------------------------------
+Group Number :54
+Fingerprint : WARNING,PaymentProcessor,Failed,connect,thirdparty,authentication,service
+Few examples for the fingerprint :
+ 1.WARNING PaymentProcessor    Failed to connect to thirdparty authentication service
+2.WARNING PaymentProcessor    Failed to connect to thirdparty authentication service
+----------------------------------------
+Group Number :55
+Fingerprint : ERROR,Database,Unexpected,token,position,input,stream
+Few examples for the fingerprint :
+ 1.ERROR Database    Unexpected token  at position  in input stream
+2.ERROR Database    Unexpected token  at position  in input stream
+----------------------------------------
+Group Number :56
+Fingerprint : WARNING,FileManager,Malformed,JSON,request,payload
+Few examples for the fingerprint :
+ 1.WARNING FileManager    Malformed JSON in request payload
+2.WARNING FileManager    Malformed JSON in request payload
+----------------------------------------
+Group Number :57
+Fingerprint : ERROR,Database,Data,format,exception,transaction,module
+Few examples for the fingerprint :
+ 1.ERROR Database    Data format exception in transaction module
+2.ERROR Database    Data format exception in transaction module
+----------------------------------------
+Group Number :58
+Fingerprint : ERROR,API,Gateway,Service,temporarily,unavailable
+Few examples for the fingerprint :
+ 1.ERROR API Gateway    Service temporarily unavailable
+----------------------------------------
+Group Number :59
+Fingerprint : WARNING,CacheLayer,Data,format,exception,transaction,module
+Few examples for the fingerprint :
+ 1.WARNING CacheLayer    Data format exception in transaction module
+2.WARNING CacheLayer    Data format exception in transaction module
+----------------------------------------
+Group Number :60
+Fingerprint : WARNING,Database,SSL,handshake,failed,due,unknown,certificate,authority
+Few examples for the fingerprint :
+ 1.WARNING Database    SSL handshake failed due to unknown certificate authority
+2.WARNING Database    SSL handshake failed due to unknown certificate authority
+----------------------------------------
+Group Number :61
+Fingerprint : WARNING,CacheLayer,Malformed,JSON,request,payload
+Few examples for the fingerprint :
+ 1.WARNING CacheLayer    Malformed JSON in request payload
+----------------------------------------
+Group Number :62
+Fingerprint : ERROR,Database,API,rate,limit,exceeded,for,IP,address
+Few examples for the fingerprint :
+ 1.ERROR Database    API rate limit exceeded for IP address
+2.ERROR Database    API rate limit exceeded for IP address
+----------------------------------------
+Group Number :63
+Fingerprint : ERROR,AuthService,Connection,timeout,while,accessing,database
+Few examples for the fingerprint :
+ 1.ERROR AuthService    Connection timeout while accessing the database
+2.ERROR AuthService    Connection timeout while accessing the database
+----------------------------------------
+Group Number :64
+Fingerprint : ERROR,Database,User,login,failed,due,invalid,credentials
+Few examples for the fingerprint :
+ 1.ERROR Database    User login failed due to invalid credentials
+2.ERROR Database    User login failed due to invalid credentials
+----------------------------------------
+Group Number :65
+Fingerprint : ERROR,FileManager,User,login,failed,due,invalid,credentials
+Few examples for the fingerprint :
+ 1.ERROR FileManager    User login failed due to invalid credentials
+2.ERROR FileManager    User login failed due to invalid credentials
+----------------------------------------
+Group Number :66
+Fingerprint : WARNING,Database,Data,format,exception,transaction,module
+Few examples for the fingerprint :
+ 1.WARNING Database    Data format exception in transaction module
+2.WARNING Database    Data format exception in transaction module
+----------------------------------------
+Group Number :67
+Fingerprint : WARNING,PaymentProcessor,Permission,denied,while,accessing,secure,endpoint
+Few examples for the fingerprint :
+ 1.WARNING PaymentProcessor    Permission denied while accessing secure endpoint
+----------------------------------------
+Group Number :68
+Fingerprint : ERROR,AuthService,File,found,specified,directory
+Few examples for the fingerprint :
+ 1.ERROR AuthService    File not found in the specified directory
+2.ERROR AuthService    File not found in the specified directory
+----------------------------------------
+Group Number :69
+Fingerprint : WARNING,AuthService,Service,temporarily,unavailable
+Few examples for the fingerprint :
+ 1.WARNING AuthService    Service temporarily unavailable
+----------------------------------------
+Group Number :70
+Fingerprint : WARNING,AuthService,Unexpected,token,position,input,stream
+Few examples for the fingerprint :
+ 1.WARNING AuthService    Unexpected token  at position  in input stream
+2.WARNING AuthService    Unexpected token  at position  in input stream
+----------------------------------------
+Group Number :71
+Fingerprint : WARNING,Database,Disk,space,running,low,server
+Few examples for the fingerprint :
+ 1.WARNING Database    Disk space running low on server
+----------------------------------------
+Group Number :72
+Fingerprint : WARNING,PaymentProcessor,Data,format,exception,transaction,module
+Few examples for the fingerprint :
+ 1.WARNING PaymentProcessor    Data format exception in transaction module
+2.WARNING PaymentProcessor    Data format exception in transaction module
+----------------------------------------
+Group Number :73
+Fingerprint : ERROR,CacheLayer,API,rate,limit,exceeded,for,IP,address
+Few examples for the fingerprint :
+ 1.ERROR CacheLayer    API rate limit exceeded for IP address
+2.ERROR CacheLayer    API rate limit exceeded for IP address
+----------------------------------------
+Group Number :74
+Fingerprint : ERROR,FileManager,Unable,acquire,lock,resource
+Few examples for the fingerprint :
+ 1.ERROR FileManager    Unable to acquire lock on resource
+----------------------------------------
+Group Number :75
+Fingerprint : ERROR,FileManager,Unexpected,token,position,input,stream
+Few examples for the fingerprint :
+ 1.ERROR FileManager    Unexpected token  at position  in input stream
+----------------------------------------
+Group Number :76
+Fingerprint : ERROR,PaymentProcessor,NullPointerException,encountered,processRequest
+Few examples for the fingerprint :
+ 1.ERROR PaymentProcessor    NullPointerException encountered in processRequest
+2.ERROR PaymentProcessor    NullPointerException encountered in processRequest
+----------------------------------------
+Group Number :77
+Fingerprint : ERROR,Database,Service,temporarily,unavailable
+Few examples for the fingerprint :
+ 1.ERROR Database    Service temporarily unavailable
+2.ERROR Database    Service temporarily unavailable
+----------------------------------------
+Group Number :78
+Fingerprint : ERROR,UserService,Unable,acquire,lock,resource
+Few examples for the fingerprint :
+ 1.ERROR UserService    Unable to acquire lock on resource
+2.ERROR UserService    Unable to acquire lock on resource
+----------------------------------------
+Group Number :79
+Fingerprint : WARNING,CacheLayer,Disk,space,running,low,server
+Few examples for the fingerprint :
+ 1.WARNING CacheLayer    Disk space running low on server
+2.WARNING CacheLayer    Disk space running low on server
+----------------------------------------
+Group Number :80
+Fingerprint : WARNING,PaymentProcessor,Memory,usage,exceeded,threshold
+Few examples for the fingerprint :
+ 1.WARNING PaymentProcessor    Memory usage exceeded threshold
+2.WARNING PaymentProcessor    Memory usage exceeded threshold
+----------------------------------------
+Group Number :81
+Fingerprint : WARNING,UserService,API,rate,limit,exceeded,for,IP,address
+Few examples for the fingerprint :
+ 1.WARNING UserService    API rate limit exceeded for IP address
+----------------------------------------
+Group Number :82
+Fingerprint : WARNING,CacheLayer,Connection,timeout,while,accessing,database
+Few examples for the fingerprint :
+ 1.WARNING CacheLayer    Connection timeout while accessing the database
+2.WARNING CacheLayer    Connection timeout while accessing the database
+----------------------------------------
+Group Number :83
+Fingerprint : ERROR,CacheLayer,SSL,handshake,failed,due,unknown,certificate,authority
+Few examples for the fingerprint :
+ 1.ERROR CacheLayer    SSL handshake failed due to unknown certificate authority
+2.ERROR CacheLayer    SSL handshake failed due to unknown certificate authority
+----------------------------------------
+Group Number :84
+Fingerprint : ERROR,PaymentProcessor,Data,format,exception,transaction,module
+Few examples for the fingerprint :
+ 1.ERROR PaymentProcessor    Data format exception in transaction module
+----------------------------------------
+Group Number :85
+Fingerprint : ERROR,FileManager,Disk,space,running,low,server
+Few examples for the fingerprint :
+ 1.ERROR FileManager    Disk space running low on server
+2.ERROR FileManager    Disk space running low on server
+----------------------------------------
+Group Number :86
+Fingerprint : WARNING,AuthService,Data,format,exception,transaction,module
+Few examples for the fingerprint :
+ 1.WARNING AuthService    Data format exception in transaction module
+2.WARNING AuthService    Data format exception in transaction module
+----------------------------------------
+Group Number :87
+Fingerprint : ERROR,UserService,Unexpected,token,position,input,stream
+Few examples for the fingerprint :
+ 1.ERROR UserService    Unexpected token  at position  in input stream
+2.ERROR UserService    Unexpected token  at position  in input stream
+----------------------------------------
+Group Number :88
+Fingerprint : WARNING,FileManager,Failed,connect,thirdparty,authentication,service
+Few examples for the fingerprint :
+ 1.WARNING FileManager    Failed to connect to thirdparty authentication service
+----------------------------------------
+Group Number :89
+Fingerprint : ERROR,CacheLayer,Malformed,JSON,request,payload
+Few examples for the fingerprint :
+ 1.ERROR CacheLayer    Malformed JSON in request payload
+2.ERROR CacheLayer    Malformed JSON in request payload
+----------------------------------------
+Group Number :90
+Fingerprint : WARNING,FileManager,Service,temporarily,unavailable
+Few examples for the fingerprint :
+ 1.WARNING FileManager    Service temporarily unavailable
+2.WARNING FileManager    Service temporarily unavailable
+----------------------------------------
+Group Number :91
+Fingerprint : ERROR,PaymentProcessor,API,rate,limit,exceeded,for,IP,address
+Few examples for the fingerprint :
+ 1.ERROR PaymentProcessor    API rate limit exceeded for IP address
+2.ERROR PaymentProcessor    API rate limit exceeded for IP address
+----------------------------------------
+Group Number :92
+Fingerprint : WARNING,FileManager,NullPointerException,encountered,processRequest
+Few examples for the fingerprint :
+ 1.WARNING FileManager    NullPointerException encountered in processRequest
+2.WARNING FileManager    NullPointerException encountered in processRequest
+----------------------------------------
+Group Number :93
+Fingerprint : WARNING,Database,Service,temporarily,unavailable
+Few examples for the fingerprint :
+ 1.WARNING Database    Service temporarily unavailable
+2.WARNING Database    Service temporarily unavailable
+----------------------------------------
+Group Number :94
+Fingerprint : ERROR,UserService,Data,format,exception,transaction,module
+Few examples for the fingerprint :
+ 1.ERROR UserService    Data format exception in transaction module
+2.ERROR UserService    Data format exception in transaction module
+----------------------------------------
+Group Number :95
+Fingerprint : ERROR,AuthService,Service,temporarily,unavailable
+Few examples for the fingerprint :
+ 1.ERROR AuthService    Service temporarily unavailable
+2.ERROR AuthService    Service temporarily unavailable
+----------------------------------------
+Group Number :96
+Fingerprint : ERROR,PaymentProcessor,Permission,denied,while,accessing,secure,endpoint
+Few examples for the fingerprint :
+ 1.ERROR PaymentProcessor    Permission denied while accessing secure endpoint
+2.ERROR PaymentProcessor    Permission denied while accessing secure endpoint
+----------------------------------------
+Group Number :97
+Fingerprint : WARNING,FileManager,File,found,specified,directory
+Few examples for the fingerprint :
+ 1.WARNING FileManager    File not found in the specified directory
+2.WARNING FileManager    File not found in the specified directory
+----------------------------------------
+Group Number :98
+Fingerprint : WARNING,PaymentProcessor,Unexpected,token,position,input,stream
+Few examples for the fingerprint :
+ 1.WARNING PaymentProcessor    Unexpected token  at position  in input stream
+----------------------------------------
+Group Number :99
+Fingerprint : ERROR,CacheLayer,Permission,denied,while,accessing,secure,endpoint
+Few examples for the fingerprint :
+ 1.ERROR CacheLayer    Permission denied while accessing secure endpoint
+2.ERROR CacheLayer    Permission denied while accessing secure endpoint
+----------------------------------------
+Group Number :100
+Fingerprint : WARNING,FileManager,Disk,space,running,low,server
+Few examples for the fingerprint :
+ 1.WARNING FileManager    Disk space running low on server
+2.WARNING FileManager    Disk space running low on server
+----------------------------------------
+Group Number :101
+Fingerprint : ERROR,Database,Failed,connect,thirdparty,authentication,service
+Few examples for the fingerprint :
+ 1.ERROR Database    Failed to connect to thirdparty authentication service
+2.ERROR Database    Failed to connect to thirdparty authentication service
+----------------------------------------
+Group Number :102
+Fingerprint : ERROR,API,Gateway,Data,format,exception,transaction,module
+Few examples for the fingerprint :
+ 1.ERROR API Gateway    Data format exception in transaction module
+----------------------------------------
+Group Number :103
+Fingerprint : WARNING,UserService,Unable,acquire,lock,resource
+Few examples for the fingerprint :
+ 1.WARNING UserService    Unable to acquire lock on resource
+----------------------------------------
+Group Number :104
+Fingerprint : WARNING,AuthService,API,rate,limit,exceeded,for,IP,address
+Few examples for the fingerprint :
+ 1.WARNING AuthService    API rate limit exceeded for IP address
+2.WARNING AuthService    API rate limit exceeded for IP address
+----------------------------------------
+Group Number :105
+Fingerprint : ERROR,FileManager,Data,format,exception,transaction,module
+Few examples for the fingerprint :
+ 1.ERROR FileManager    Data format exception in transaction module
+2.ERROR FileManager    Data format exception in transaction module
+----------------------------------------
+Group Number :106
+Fingerprint : ERROR,FileManager,Failed,connect,thirdparty,authentication,service
+Few examples for the fingerprint :
+ 1.ERROR FileManager    Failed to connect to thirdparty authentication service
+2.ERROR FileManager    Failed to connect to thirdparty authentication service
+----------------------------------------
+Group Number :107
+Fingerprint : WARNING,UserService,Data,format,exception,transaction,module
+Few examples for the fingerprint :
+ 1.WARNING UserService    Data format exception in transaction module
+2.WARNING UserService    Data format exception in transaction module
+----------------------------------------
+Group Number :108
+Fingerprint : WARNING,FileManager,User,login,failed,due,invalid,credentials
+Few examples for the fingerprint :
+ 1.WARNING FileManager    User login failed due to invalid credentials
+----------------------------------------
+Group Number :109
+Fingerprint : ERROR,AuthService,Unable,acquire,lock,resource
+Few examples for the fingerprint :
+ 1.ERROR AuthService    Unable to acquire lock on resource
+2.ERROR AuthService    Unable to acquire lock on resource
+----------------------------------------
+Group Number :110
+Fingerprint : WARNING,FileManager,Permission,denied,while,accessing,secure,endpoint
+Few examples for the fingerprint :
+ 1.WARNING FileManager    Permission denied while accessing secure endpoint
+2.WARNING FileManager    Permission denied while accessing secure endpoint
+----------------------------------------
+Group Number :111
+Fingerprint : ERROR,Database,Unable,acquire,lock,resource
+Few examples for the fingerprint :
+ 1.ERROR Database    Unable to acquire lock on resource
+----------------------------------------
+Group Number :112
+Fingerprint : ERROR,AuthService,Permission,denied,while,accessing,secure,endpoint
+Few examples for the fingerprint :
+ 1.ERROR AuthService    Permission denied while accessing secure endpoint
+----------------------------------------
+Group Number :113
+Fingerprint : WARNING,AuthService,Unable,acquire,lock,resource
+Few examples for the fingerprint :
+ 1.WARNING AuthService    Unable to acquire lock on resource
+2.WARNING AuthService    Unable to acquire lock on resource
+----------------------------------------
+Group Number :114
+Fingerprint : ERROR,AuthService,SSL,handshake,failed,due,unknown,certificate,authority
+Few examples for the fingerprint :
+ 1.ERROR AuthService    SSL handshake failed due to unknown certificate authority
+2.ERROR AuthService    SSL handshake failed due to unknown certificate authority
+----------------------------------------
+Group Number :115
+Fingerprint : WARNING,Database,Failed,connect,thirdparty,authentication,service
+Few examples for the fingerprint :
+ 1.WARNING Database    Failed to connect to thirdparty authentication service
+2.WARNING Database    Failed to connect to thirdparty authentication service
+----------------------------------------
+Group Number :116
+Fingerprint : WARNING,API,Gateway,Failed,connect,thirdparty,authentication,service
+Few examples for the fingerprint :
+ 1.WARNING API Gateway    Failed to connect to thirdparty authentication service
+2.WARNING API Gateway    Failed to connect to thirdparty authentication service
+----------------------------------------
+Group Number :117
+Fingerprint : ERROR,UserService,Failed,connect,thirdparty,authentication,service
+Few examples for the fingerprint :
+ 1.ERROR UserService    Failed to connect to thirdparty authentication service
+----------------------------------------
+Group Number :118
+Fingerprint : WARNING,API,Gateway,Disk,space,running,low,server
+Few examples for the fingerprint :
+ 1.WARNING API Gateway    Disk space running low on server
+----------------------------------------
+Group Number :119
+Fingerprint : WARNING,PaymentProcessor,Connection,timeout,while,accessing,database
+Few examples for the fingerprint :
+ 1.WARNING PaymentProcessor    Connection timeout while accessing the database
+2.WARNING PaymentProcessor    Connection timeout while accessing the database
+----------------------------------------
+Group Number :120
+Fingerprint : WARNING,FileManager,Connection,timeout,while,accessing,database
+Few examples for the fingerprint :
+ 1.WARNING FileManager    Connection timeout while accessing the database
+----------------------------------------
+Group Number :121
+Fingerprint : ERROR,FileManager,Permission,denied,while,accessing,secure,endpoint
+Few examples for the fingerprint :
+ 1.ERROR FileManager    Permission denied while accessing secure endpoint
+2.ERROR FileManager    Permission denied while accessing secure endpoint
+----------------------------------------
+Group Number :122
+Fingerprint : WARNING,CacheLayer,Failed,connect,thirdparty,authentication,service
+Few examples for the fingerprint :
+ 1.WARNING CacheLayer    Failed to connect to thirdparty authentication service
+----------------------------------------
+Group Number :123
+Fingerprint : WARNING,AuthService,SSL,handshake,failed,due,unknown,certificate,authority
+Few examples for the fingerprint :
+ 1.WARNING AuthService    SSL handshake failed due to unknown certificate authority
+2.WARNING AuthService    SSL handshake failed due to unknown certificate authority
+----------------------------------------
+Group Number :124
+Fingerprint : ERROR,AuthService,Data,format,exception,transaction,module
+Few examples for the fingerprint :
+ 1.ERROR AuthService    Data format exception in transaction module
+2.ERROR AuthService    Data format exception in transaction module
+----------------------------------------
+Group Number :125
+Fingerprint : ERROR,PaymentProcessor,SSL,handshake,failed,due,unknown,certificate,authority
+Few examples for the fingerprint :
+ 1.ERROR PaymentProcessor    SSL handshake failed due to unknown certificate authority
+2.ERROR PaymentProcessor    SSL handshake failed due to unknown certificate authority
+----------------------------------------
+Group Number :126
+Fingerprint : ERROR,UserService,Memory,usage,exceeded,threshold
+Few examples for the fingerprint :
+ 1.ERROR UserService    Memory usage exceeded threshold
+2.ERROR UserService    Memory usage exceeded threshold
+----------------------------------------
+Group Number :127
+Fingerprint : ERROR,FileManager,NullPointerException,encountered,processRequest
+Few examples for the fingerprint :
+ 1.ERROR FileManager    NullPointerException encountered in processRequest
+----------------------------------------
+Group Number :128
+Fingerprint : WARNING,Database,Permission,denied,while,accessing,secure,endpoint
+Few examples for the fingerprint :
+ 1.WARNING Database    Permission denied while accessing secure endpoint
+----------------------------------------
+Group Number :129
+Fingerprint : ERROR,API,Gateway,Unable,acquire,lock,resource
+Few examples for the fingerprint :
+ 1.ERROR API Gateway    Unable to acquire lock on resource
+----------------------------------------
+Group Number :130
+Fingerprint : ERROR,API,Gateway,Failed,connect,thirdparty,authentication,service
+Few examples for the fingerprint :
+ 1.ERROR API Gateway    Failed to connect to thirdparty authentication service
+2.ERROR API Gateway    Failed to connect to thirdparty authentication service
+----------------------------------------
+Group Number :131
+Fingerprint : WARNING,UserService,Disk,space,running,low,server
+Few examples for the fingerprint :
+ 1.WARNING UserService    Disk space running low on server
+2.WARNING UserService    Disk space running low on server
+----------------------------------------
+Group Number :132
+Fingerprint : WARNING,FileManager,Memory,usage,exceeded,threshold
+Few examples for the fingerprint :
+ 1.WARNING FileManager    Memory usage exceeded threshold
+2.WARNING FileManager    Memory usage exceeded threshold
+----------------------------------------
+Group Number :133
+Fingerprint : WARNING,UserService,Unexpected,token,position,input,stream
+Few examples for the fingerprint :
+ 1.WARNING UserService    Unexpected token  at position  in input stream
+----------------------------------------
+Group Number :134
+Fingerprint : ERROR,Database,Connection,timeout,while,accessing,database
+Few examples for the fingerprint :
+ 1.ERROR Database    Connection timeout while accessing the database
+----------------------------------------
+Group Number :135
+Fingerprint : ERROR,Database,Permission,denied,while,accessing,secure,endpoint
+Few examples for the fingerprint :
+ 1.ERROR Database    Permission denied while accessing secure endpoint
+2.ERROR Database    Permission denied while accessing secure endpoint
+----------------------------------------
+Group Number :136
+Fingerprint : ERROR,API,Gateway,Malformed,JSON,request,payload
+Few examples for the fingerprint :
+ 1.ERROR API Gateway    Malformed JSON in request payload
+----------------------------------------
+Group Number :137
+Fingerprint : ERROR,CacheLayer,Disk,space,running,low,server
+Few examples for the fingerprint :
+ 1.ERROR CacheLayer    Disk space running low on server
+----------------------------------------
+Group Number :138
+Fingerprint : ERROR,CacheLayer,Failed,connect,thirdparty,authentication,service
+Few examples for the fingerprint :
+ 1.ERROR CacheLayer    Failed to connect to thirdparty authentication service
+----------------------------------------
+Group Number :139
+Fingerprint : WARNING,API,Gateway,Service,temporarily,unavailable
+Few examples for the fingerprint :
+ 1.WARNING API Gateway    Service temporarily unavailable
+----------------------------------------
+Group Number :140
+Fingerprint : WARNING,UserService,NullPointerException,encountered,processRequest
+Few examples for the fingerprint :
+ 1.WARNING UserService    NullPointerException encountered in processRequest
+2.WARNING UserService    NullPointerException encountered in processRequest
+----------------------------------------
+Group Number :141
+Fingerprint : WARNING,API,Gateway,NullPointerException,encountered,processRequest
+Few examples for the fingerprint :
+ 1.WARNING API Gateway    NullPointerException encountered in processRequest
+2.WARNING API Gateway    NullPointerException encountered in processRequest
+----------------------------------------
+Group Number :142
+Fingerprint : WARNING,PaymentProcessor,SSL,handshake,failed,due,unknown,certificate,authority
+Few examples for the fingerprint :
+ 1.WARNING PaymentProcessor    SSL handshake failed due to unknown certificate authority
+2.WARNING PaymentProcessor    SSL handshake failed due to unknown certificate authority
+----------------------------------------
+Group Number :143
+Fingerprint : ERROR,CacheLayer,User,login,failed,due,invalid,credentials
+Few examples for the fingerprint :
+ 1.ERROR CacheLayer    User login failed due to invalid credentials
+2.ERROR CacheLayer    User login failed due to invalid credentials
+----------------------------------------
+Group Number :144
+Fingerprint : WARNING,Database,Memory,usage,exceeded,threshold
+Few examples for the fingerprint :
+ 1.WARNING Database    Memory usage exceeded threshold
+2.WARNING Database    Memory usage exceeded threshold
+----------------------------------------
+Group Number :145
+Fingerprint : WARNING,AuthService,Failed,connect,thirdparty,authentication,service
+Few examples for the fingerprint :
+ 1.WARNING AuthService    Failed to connect to thirdparty authentication service
+2.WARNING AuthService    Failed to connect to thirdparty authentication service
+----------------------------------------
+Group Number :146
+Fingerprint : ERROR,Database,Disk,space,running,low,server
+Few examples for the fingerprint :
+ 1.ERROR Database    Disk space running low on server
+----------------------------------------
+Group Number :147
+Fingerprint : ERROR,API,Gateway,Disk,space,running,low,server
+Few examples for the fingerprint :
+ 1.ERROR API Gateway    Disk space running low on server
+----------------------------------------
+Group Number :148
+Fingerprint : ERROR,PaymentProcessor,Disk,space,running,low,server
+Few examples for the fingerprint :
+ 1.ERROR PaymentProcessor    Disk space running low on server
+----------------------------------------
+Group Number :149
+Fingerprint : ERROR,AuthService,Malformed,JSON,request,payload
+Few examples for the fingerprint :
+ 1.ERROR AuthService    Malformed JSON in request payload
+2.ERROR AuthService    Malformed JSON in request payload
+----------------------------------------
+Group Number :150
+Fingerprint : ERROR,UserService,NullPointerException,encountered,processRequest
+Few examples for the fingerprint :
+ 1.ERROR UserService    NullPointerException encountered in processRequest
+----------------------------------------
+Group Number :151
+Fingerprint : WARNING,CacheLayer,User,login,failed,due,invalid,credentials
+Few examples for the fingerprint :
+ 1.WARNING CacheLayer    User login failed due to invalid credentials
+----------------------------------------
+Group Number :152
+Fingerprint : WARNING,UserService,SSL,handshake,failed,due,unknown,certificate,authority
+Few examples for the fingerprint :
+ 1.WARNING UserService    SSL handshake failed due to unknown certificate authority
+----------------------------------------
+Group Number :153
+Fingerprint : ERROR,AuthService,Failed,connect,thirdparty,authentication,service
+Few examples for the fingerprint :
+ 1.ERROR AuthService    Failed to connect to thirdparty authentication service
+2.ERROR AuthService    Failed to connect to thirdparty authentication service
+----------------------------------------
+Group Number :154
+Fingerprint : ERROR,UserService,API,rate,limit,exceeded,for,IP,address
+Few examples for the fingerprint :
+ 1.ERROR UserService    API rate limit exceeded for IP address
+----------------------------------------
+Group Number :155
+Fingerprint : WARNING,CacheLayer,Service,temporarily,unavailable
+Few examples for the fingerprint :
+ 1.WARNING CacheLayer    Service temporarily unavailable
+----------------------------------------
+Group Number :156
+Fingerprint : WARNING,Database,Unable,acquire,lock,resource
+Few examples for the fingerprint :
+ 1.WARNING Database    Unable to acquire lock on resource
+2.WARNING Database    Unable to acquire lock on resource
+----------------------------------------
+Group Number :157
+Fingerprint : ERROR,UserService,Malformed,JSON,request,payload
+Few examples for the fingerprint :
+ 1.ERROR UserService    Malformed JSON in request payload
+----------------------------------------
+Group Number :158
+Fingerprint : WARNING,PaymentProcessor,File,found,specified,directory
+Few examples for the fingerprint :
+ 1.WARNING PaymentProcessor    File not found in the specified directory
+----------------------------------------
+Group Number :159
+Fingerprint : ERROR,API,Gateway,Permission,denied,while,accessing,secure,endpoint
+Few examples for the fingerprint :
+ 1.ERROR API Gateway    Permission denied while accessing secure endpoint
+2.ERROR API Gateway    Permission denied while accessing secure endpoint
+----------------------------------------
+Group Number :160
+Fingerprint : WARNING,FileManager,SSL,handshake,failed,due,unknown,certificate,authority
+Few examples for the fingerprint :
+ 1.WARNING FileManager    SSL handshake failed due to unknown certificate authority
+2.WARNING FileManager    SSL handshake failed due to unknown certificate authority
+----------------------------------------
+Group Number :161
+Fingerprint : ERROR,FileManager,API,rate,limit,exceeded,for,IP,address
+Few examples for the fingerprint :
+ 1.ERROR FileManager    API rate limit exceeded for IP address
+----------------------------------------
+Group Number :162
+Fingerprint : WARNING,PaymentProcessor,API,rate,limit,exceeded,for,IP,address
+Few examples for the fingerprint :
+ 1.WARNING PaymentProcessor    API rate limit exceeded for IP address
+----------------------------------------
+Group Number :163
+Fingerprint : ERROR,AuthService,Memory,usage,exceeded,threshold
+Few examples for the fingerprint :
+ 1.ERROR AuthService    Memory usage exceeded threshold
+----------------------------------------
+Group Number :164
+Fingerprint : ERROR,CacheLayer,Connection,timeout,while,accessing,database
+Few examples for the fingerprint :
+ 1.ERROR CacheLayer    Connection timeout while accessing the database
+----------------------------------------
+Group Number :165
+Fingerprint : WARNING,CacheLayer,Memory,usage,exceeded,threshold
+Few examples for the fingerprint :
+ 1.WARNING CacheLayer    Memory usage exceeded threshold
+----------------------------------------
+Group Number :166
+Fingerprint : ERROR,Database,SSL,handshake,failed,due,unknown,certificate,authority
+Few examples for the fingerprint :
+ 1.ERROR Database    SSL handshake failed due to unknown certificate authority
+----------------------------------------
+Group Number :167
+Fingerprint : WARNING,Database,Unexpected,token,position,input,stream
+Few examples for the fingerprint :
+ 1.WARNING Database    Unexpected token  at position  in input stream
+----------------------------------------
+Group Number :168
+Fingerprint : WARNING,AuthService,Memory,usage,exceeded,threshold
+Few examples for the fingerprint :
+ 1.WARNING AuthService    Memory usage exceeded threshold
+----------------------------------------
+Group Number :169
+Fingerprint : WARNING,PaymentProcessor,Service,temporarily,unavailable
+Few examples for the fingerprint :
+ 1.WARNING PaymentProcessor    Service temporarily unavailable
+----------------------------------------
+Group Number :170
+Fingerprint : ERROR,API,Gateway,Memory,usage,exceeded,threshold
+Few examples for the fingerprint :
+ 1.ERROR API Gateway    Memory usage exceeded threshold
+----------------------------------------
+Group Number :171
+Fingerprint : WARNING,AuthService,Malformed,JSON,request,payload
+Few examples for the fingerprint :
+ 1.WARNING AuthService    Malformed JSON in request payload
+----------------------------------------
+Group Number :172
+Fingerprint : WARNING,UserService,Malformed,JSON,request,payload
+Few examples for the fingerprint :
+ 1.WARNING UserService    Malformed JSON in request payload
+----------------------------------------
+Group Number :173
+Fingerprint : WARNING,CacheLayer,Unable,acquire,lock,resource
+Few examples for the fingerprint :
+ 1.WARNING CacheLayer    Unable to acquire lock on resource
+----------------------------------------
+Group Number :174
+Fingerprint : WARNING,API,Gateway,API,rate,limit,exceeded,for,IP,address
+Few examples for the fingerprint :
+ 1.WARNING API Gateway    API rate limit exceeded for IP address
+----------------------------------------
+Group Number :175
+Fingerprint : ERROR,AuthService,API,rate,limit,exceeded,for,IP,address
+Few examples for the fingerprint :
+ 1.ERROR AuthService    API rate limit exceeded for IP address
+----------------------------------------

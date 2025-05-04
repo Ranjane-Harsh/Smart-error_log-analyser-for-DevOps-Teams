@@ -1,5 +1,0 @@
-2025-04-28 14:22:05 [INFO] System boot complete
-2025-04-28 14:22:15 [WARNING] Disk usage at 85%
-2025-04-28 14:23:01 [ERROR] ID: 12345 - Network unreachable
-2025-04-28 14:23:50 [INFO] /home/user/startup.sh executed
-2025-04-28 14:24:22 [ERROR] Could not connect to database at /var/db/main.db

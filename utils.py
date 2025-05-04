@@ -1,7 +1,7 @@
 import re
 import os
 
-file_path = r"D:\Coding\Vs code\Projects\Smart Error Log Analyser For DevOps Teams\test_Main.txt"
+file_path = r"D:\Coding\Vs code\Projects\Smart Error Log Analyser For DevOps Teams\test_1000.txt"
 
 def read_log_file(path):
     if not os.path.exists(path):
